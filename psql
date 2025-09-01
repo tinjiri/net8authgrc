@@ -1,0 +1,5 @@
+psql "host=db.supabase.co port=5432 dbname=postgres user=postgres password=Basededonnees#3 sslmode=require"
+
+
+
+//"Host=db.zctqichulbqntzmxtpla.supabase.co;Port=5432;Database=authdb;Username=postgres;Password=Basededonnees#3;SSL Mode=Require;Trust Server Certificate=true;PreferTcpIpV6=false;"
